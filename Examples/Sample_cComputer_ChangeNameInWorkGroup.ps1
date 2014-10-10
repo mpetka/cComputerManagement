@@ -21,3 +21,4 @@ configuration Sample_cComputer_ChangeNameInWorkgroup
         }
     }
 }
+

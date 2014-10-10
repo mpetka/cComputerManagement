@@ -43,3 +43,4 @@ $ConfigData = @{
 Sample_xComputer_ChangeNameInDomain -ConfigurationData $ConfigData -MachineName <machineName>  -Credential (Get-Credential)
 
 *****************************#>
+

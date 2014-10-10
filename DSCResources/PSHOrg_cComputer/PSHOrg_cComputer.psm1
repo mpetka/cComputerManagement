@@ -224,3 +224,4 @@ function ValidateDomainWorkGroup
 
 Export-ModuleMember -Function *-TargetResource
 
+
