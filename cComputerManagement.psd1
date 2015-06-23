@@ -1,18 +1,18 @@
 @{
 # Version number of this module.
-ModuleVersion = '1.0'
+ModuleVersion = '1.1'
 
 # ID used to uniquely identify this module
-GUID = '41c83857-b8c6-43a2-8568-1b155cddcb85'
+GUID = '5a586515-8fbd-4f6b-a782-2498df2221b6''
 
 # Author of this module
-Author = 'Microsoft Corporation'
+Author = 'PowerShell.Org'
 
 # Company or vendor of this module
-CompanyName = 'Microsoft Corporation'
+CompanyName = 'PowerShell.Org'
 
 # Copyright statement for this module
-Copyright = '(c) 2013 Microsoft Corporation. All rights reserved.'
+Copyright = '(c) 2015 PowerShell.Org. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = 'Module with DSC Resources for Computer Management area'
