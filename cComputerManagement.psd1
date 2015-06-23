@@ -1,9 +1,9 @@
 @{
 # Version number of this module.
-ModuleVersion = '1.1'
+ModuleVersion = '1.1.1'
 
 # ID used to uniquely identify this module
-GUID = '5a586515-8fbd-4f6b-a782-2498df2221b6''
+GUID = '5a586515-8fbd-4f6b-a782-2498df2221b6'
 
 # Author of this module
 Author = 'PowerShell.Org'
